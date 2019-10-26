@@ -1,3 +1,3 @@
-# face_extraction
-multiple face extraction from single image.it use opencv and haarcascade
+##face_extraction
+Face region extract from image or vedio using opencv python and haarcascade.it can able to extract multiple face from image.
 
